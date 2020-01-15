@@ -1,0 +1,71 @@
+body {
+          margin-left: 0px;
+          margin-right: 0px;
+          margin-top: 0px;
+          padding: 10px 10px 10px 10px;
+          border: 0px solid #f2f2f2;
+          background-color: #;
+
+}
+
+.button {
+         width: 160px;
+         height: 30px;
+         border: 2px solid #000000;
+         color: #000000;
+         display: inline-block;
+         padding-top: 13px;
+         border-radius: 10px;
+
+}
+
+.button:hover {
+         width: 160px;
+         height: 30px;
+         border: 2px solid #000000;
+         background-color: #000000;
+         color: #ffffff;
+         display: inline-block;
+         padding-top: 13px;
+         border-radius: 10px;
+
+}
+
+#icon {
+          width: 80px;
+          height: 80px;
+          background-image: url(http://mahfuz.ninja/wp-content/uploads/2017/01/14718650_10207119152206927_1288245939913744085_n.jpg);
+          background-size: 80px 80px;
+          border: 2px solid #f2f2f2;
+          border-radius: 50%;
+          margin-bottom: 32px;
+}
+
+#pro_pic {
+          width: 150px;
+          height: 150px;
+          background-image: url(http://mahfuz.ninja/wp-content/uploads/2017/01/14718650_10207119152206927_1288245939913744085_n.jpg);
+          background-size: 150px 150px;
+          border: 2px solid #f2f2f2;
+          border-radius: 0%;
+}
+
+#box {
+	      height: 300px;
+	      width: 300px;
+	      border: 3px solid #f2f2f2;
+	      background-color: #f7f7f7;
+	      padding: 10px 10px;
+	      margin: 30px 10px;
+	      float: left;
+}
+
+#box:hover {
+
+	      border: 3px solid #955889;
+
+}
+
+h2,p {
+	      font-family: Calibri;
+}
