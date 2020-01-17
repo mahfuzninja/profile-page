@@ -32,21 +32,21 @@ body {
 }
 
 #icon {
-          width: 80px;
-          height: 80px;
-          background-image: url(http://mahfuz.ninja/wp-content/uploads/2017/01/14718650_10207119152206927_1288245939913744085_n.jpg);
-          background-size: 80px 80px;
-          border: 2px solid #f2f2f2;
+          width: 40px;
+          height: 40px;
+	  background-size: 80px 80px;
+	  background-image:url(01f39666037a7ec4c4e4a41589dc5416.jpg);
+          border: 4px solid #f2f2f2;
           border-radius: 50%;
           margin-bottom: 32px;
 }
 
 #pro_pic {
-          width: 150px;
-          height: 150px;
-          background-image: url(http://mahfuz.ninja/wp-content/uploads/2017/01/14718650_10207119152206927_1288245939913744085_n.jpg);
-          background-size: 150px 150px;
-          border: 2px solid #f2f2f2;
+          width: 100px;
+          height: 100px;
+          background-image: url(01f39666037a7ec4c4e4a41589dc5416.jpg);
+          background-size: 40px 40px;
+          border: 4px solid #f2f2f2;
           border-radius: 0%;
 }
 
